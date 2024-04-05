@@ -29,8 +29,12 @@ _Retrieve a list of Game of Thrones books by invoking `fetch()`._
 ## [POST](phase-1/post)
 - [Slides](phase-1/post/slides)
 _Available in [Keynote](https://raw.githubusercontent.com/rhythms06/flatiron-school/main/phase-1/post/slides/post.key), [PowerPoint](https://raw.githubusercontent.com/rhythms06/flatiron-school/main/phase-1/post/slides/post.pptx), and [PDF](https://raw.githubusercontent.com/rhythms06/flatiron-school/main/phase-1/post/slides/post.pdf) formats._
-- [Humans, Dogs, Cats, and Robots](phase-1/post/code)
-_Add humans (or dogs, or cats, or robots) to a local database with the help of `json-server` and `fetch()`._
+- [Creating Data with JSON Server and POST Requests](phase-1/post/code)
+_Add humans (or dogs, or cats, or robots, or whatever) to a local database with the help of `json-server` and `fetch()`._
+
+## [Appendix](phase-1/appendix)
+- [Advanced Concepts](phase-1/appendix)
+_An overview of more advanced general programming and JavaScript concepts._
 
 ## [Challenges](phase-1/challenges)
 - [Humans, Dogs, Cats, and Robots](phase-1/challenges/humans)
@@ -43,6 +47,9 @@ _Create a storefront for Calexico with the help of `GET` requests, `PATCH` reque
 _Help Andy manage his toys with `GET`, `POST`, `PATCH`, and `DELETE` requests!_
 
 # Phase 2: React
+
+## [Fundamentals](phase-2/fundamentals)
+_Use build tools to get started in React without a framework._
 
 ## [Props](phase-2/props)
 - [Slides](phase-2/props/slides)
